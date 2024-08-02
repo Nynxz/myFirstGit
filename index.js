@@ -1,3 +1,5 @@
 console.log("Hello World!");
 
-// Causing a merge conflict!
+const sumNumbers = (a, b) => a + b;
+
+console.log(sumNumbers(5, 10));
